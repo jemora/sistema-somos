@@ -1,0 +1,14 @@
+id;cedula;carnet;title;edad;direccion;telefono;cargaFam;description;updated_at;created_at;kind_id;user_id;asigned_id;project_id;category_id;priority_id;status_id;
+"1";"0";"0";"Jaime Mora";"0";"";"";"0";"Esto es una prueba luego de agregar campos adicionales";"2017-07-14 12:41:36";"2017-07-13 18:08:38";"1";"1";"";"1";"1";"3";"1";
+"2";"1234565";"324321";"Liseth DaCosta";"46";"Avenida Aguerrevere casa sin número diagonal a XX";"04160000101";"5";"Prueba del sistema";"2017-07-21 18:34:41";"2017-07-15 20:38:08";"7";"1";"2";"2";"10";"1";"3";
+"4";"0";"0";"Prueba del sistema 4";"0";"";"";"0";"Solicitud del compañero";"";"2017-07-16 19:58:54";"1";"1";"";"14";"33";"1";"1";
+"5";"13000000";"256987";"Marcos Palma";"32";"Av. Constitución, diagonal a Ferreconi";"04260000000";"6";"Casa de alimentación";"2017-07-21 18:35:39";"2017-07-16 21:20:57";"1";"1";"14";"14";"34";"1";"1";
+"6";"20202";"20202";"Prueba del sistema 6";"0";"";"";"0";"Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba ";"";"2017-07-16 21:30:21";"1";"1";"";"14";"33";"1";"1";
+"7";"30303";"30303";"Prueba del sistema 7";"21";"Av. Aguerrevere. Edificio Michel. Piso 2. Pto. Aya";"04160000101";"4";"Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba ";"2017-07-17 00:14:35";"2017-07-16 21:41:11";"1";"1";"14";"14";"33";"1";"2";
+"8";"90909";"909087";"Lizmar Torres";"24";"Av. Aguerrevere. Edificio Michel. Piso 2. Pto. Aya";"04120461205";"1";"Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba ";"2017-07-21 18:34:08";"2017-07-16 21:43:17";"1";"1";"14";"14";"35";"1";"1";
+"9";"10090090";"12345678";"Andres Toro";"35";"Av. Aguerrevere. Edificio Michel. Piso 2. Pto. Aya";"04120461205";"8";"Probando solicitud en sistema";"2017-07-21 18:33:54";"2017-07-16 22:53:28";"1";"1";"14";"14";"34";"1";"2";
+"10";"10919191";"56432";"Nocolasa Daza";"48";"Av. Aguerrevere. Edificio Michel. Piso 2. Pto. Aya";"04160000101";"5";"Prueba actualizando el campo asignado a...";"2017-07-21 18:33:39";"2017-07-16 23:01:34";"1";"1";"14";"14";"35";"1";"2";
+"11";"1212120";"4635223";"Angel Osuna";"27";"Av. Aguerrevere. Edificio Michel. Piso 2. Pto. Aya";"04160000101";"4";"Datos extensos de la solicitud. Prueba del campo carga familiar en la inclusión";"2017-07-21 18:33:20";"2017-07-16 23:43:36";"1";"1";"14";"14";"33";"1";"1";
+"12";"23000000";"23232323";"Carolina Mata";"25";"Av. Constitución, diagonal a Ferreconi";"04260000000";"2";"Requiere solucionar caso SAIME para su ingreso a OPSU";"";"2017-07-21 18:27:50";"9";"1";"1";"1";"46";"1";"1";
+"13";"8000000";"256589";"Rufino Perez";"54";"Triangulo de Guaicaipuro Sector La Lora";"04165000000";"3";"Requiere con urgencia silla de ruedas";"";"2017-07-21 18:30:13";"11";"1";"13";"13";"29";"1";"1";
+"14";"180540000";"259874";"Laura Torres";"27";"Av Perimetral, diagonal al Rebusque Mayabiro";"04120000000";"4";"Requiere medicamentos para niño con problemas hepáticos";"";"2017-07-21 18:31:56";"12";"1";"2";"2";"11";"1";"1";

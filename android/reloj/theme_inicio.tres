@@ -1,0 +1,348 @@
+[gd_resource type="Theme" load_steps=21 format=1]
+
+[sub_resource type="StyleBoxTexture" id=1]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+margin/left = 8.0
+margin/right = 8.0
+margin/top = 8.0
+margin/bottom = 16.0
+expand_margin/left = 0.0
+expand_margin/right = 0.0
+expand_margin/top = 0.0
+expand_margin/bottom = 0.0
+draw_center = true
+
+[sub_resource type="StyleBoxTexture" id=2]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+margin/left = 8.0
+margin/right = 8.0
+margin/top = 8.0
+margin/bottom = 16.0
+expand_margin/left = 0.0
+expand_margin/right = 0.0
+expand_margin/top = 0.0
+expand_margin/bottom = 0.0
+draw_center = true
+
+[sub_resource type="StyleBoxFlat" id=3]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 0.742188, 0, 0.330505, 1 )
+light_color = Color( 0.996094, 0.662928, 0.463028, 1 )
+dark_color = Color( 0.996078, 0.662745, 0.462745, 1 )
+border_size = 0
+border_blend = false
+draw_bg = true
+
+[sub_resource type="StyleBoxFlat" id=4]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 1, 0.246094, 0.511139, 1 )
+light_color = Color( 0.980469, 0.820089, 0.723862, 1 )
+dark_color = Color( 0.980392, 0.819608, 0.721569, 1 )
+border_size = 0
+border_blend = false
+draw_bg = true
+
+[sub_resource type="StyleBoxFlat" id=5]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 1, 0.660156, 0.779633, 1 )
+light_color = Color( 0.984375, 0.685788, 0.503723, 1 )
+dark_color = Color( 0.984314, 0.682353, 0.501961, 1 )
+border_size = 0
+border_blend = false
+draw_bg = true
+
+[sub_resource type="StyleBoxFlat" id=6]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 0.6, 0.6, 0.6, 1 )
+light_color = Color( 0.8, 0.8, 0.8, 1 )
+dark_color = Color( 0.8, 0.8, 0.8, 1 )
+border_size = 0
+border_blend = false
+draw_bg = false
+
+[sub_resource type="StyleBoxFlat" id=7]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 0.6, 0.6, 0.6, 1 )
+light_color = Color( 0.8, 0.8, 0.8, 1 )
+dark_color = Color( 0.8, 0.8, 0.8, 1 )
+border_size = 0
+border_blend = false
+draw_bg = false
+
+[sub_resource type="StyleBoxFlat" id=8]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 0.6, 0.6, 0.6, 0 )
+light_color = Color( 0.8, 0.8, 0.8, 1 )
+dark_color = Color( 0.8, 0.8, 0.8, 1 )
+border_size = 0
+border_blend = false
+draw_bg = false
+
+[sub_resource type="StyleBoxFlat" id=9]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 1, 1, 1, 1 )
+light_color = Color( 1, 0.486847, 0.308594, 1 )
+dark_color = Color( 1, 0.486275, 0.305882, 1 )
+border_size = 2
+border_blend = false
+draw_bg = true
+
+[sub_resource type="StyleBoxFlat" id=10]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 1, 0.968862, 0.941406, 1 )
+light_color = Color( 1, 0.636841, 0.316406, 1 )
+dark_color = Color( 1, 0.635294, 0.313726, 1 )
+border_size = 1
+border_blend = false
+draw_bg = true
+
+[sub_resource type="StyleBoxFlat" id=11]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 1, 0.753289, 0.609375, 1 )
+light_color = Color( 1, 0.622533, 0.402344, 1 )
+dark_color = Color( 1, 0.619608, 0.4, 1 )
+border_size = 1
+border_blend = true
+draw_bg = true
+
+[sub_resource type="StyleBoxFlat" id=12]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 1, 0.806832, 0.695312, 1 )
+light_color = Color( 1, 0.619608, 0.4, 1 )
+dark_color = Color( 1, 0.619608, 0.4, 1 )
+border_size = 1
+border_blend = true
+draw_bg = true
+
+[sub_resource type="StyleBoxFlat" id=13]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 1, 0.928181, 0.886719, 1 )
+light_color = Color( 1, 0.677804, 0.417969, 1 )
+dark_color = Color( 1, 0.67451, 0.415686, 1 )
+border_size = 1
+border_blend = true
+draw_bg = true
+
+[sub_resource type="StyleBoxFlat" id=14]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 0.6, 0.6, 0.6, 1 )
+light_color = Color( 0.8, 0.8, 0.8, 1 )
+dark_color = Color( 0.8, 0.8, 0.8, 1 )
+border_size = 0
+border_blend = true
+draw_bg = true
+
+[sub_resource type="StyleBoxFlat" id=15]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 1, 1, 1, 1 )
+light_color = Color( 0.757812, 0.757812, 0.757812, 1 )
+dark_color = Color( 0.746094, 0.746094, 0.746094, 1 )
+border_size = 2
+border_blend = true
+draw_bg = true
+
+[sub_resource type="StyleBoxFlat" id=16]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 0.103912, 0.886719, 0.556472, 1 )
+light_color = Color( 0.8, 0.8, 0.8, 1 )
+dark_color = Color( 0.8, 0.8, 0.8, 1 )
+border_size = 0
+border_blend = true
+draw_bg = true
+
+[sub_resource type="StyleBoxTexture" id=17]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+margin/left = 8.0
+margin/right = 8.0
+margin/top = 8.0
+margin/bottom = 8.0
+expand_margin/left = 0.0
+expand_margin/right = 0.0
+expand_margin/top = 0.0
+expand_margin/bottom = 0.0
+draw_center = true
+
+[sub_resource type="StyleBoxFlat" id=18]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 1, 0.73749, 0.585938, 1 )
+light_color = Color( 1, 0.619608, 0.4, 1 )
+dark_color = Color( 1, 0.619608, 0.4, 1 )
+border_size = 1
+border_blend = false
+draw_bg = true
+
+[sub_resource type="StyleBoxFlat" id=19]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 1, 0.960376, 0.9375, 1 )
+light_color = Color( 1, 0.619608, 0.4, 1 )
+dark_color = Color( 1, 0.619608, 0.4, 1 )
+border_size = 1
+border_blend = false
+draw_bg = true
+
+[sub_resource type="StyleBoxFlat" id=20]
+
+content_margin/left = -1.0
+content_margin/right = -1.0
+content_margin/top = -1.0
+content_margin/bottom = -1.0
+bg_color = Color( 1, 1, 1, 1 )
+light_color = Color( 0.8, 0.8, 0.8, 1 )
+dark_color = Color( 0.8, 0.8, 0.8, 1 )
+border_size = 0
+border_blend = true
+draw_bg = true
+
+[resource]
+
+Button/colors/font_color = Color( 1, 1, 1, 1 )
+Button/colors/font_color_disabled = Color( 0.453125, 0.453125, 0.453125, 1 )
+Button/colors/font_color_hover = Color( 1, 1, 1, 1 )
+Button/colors/font_color_pressed = Color( 1, 1, 1, 1 )
+Button/constants/hseparation = 2
+Button/fonts/font = null
+Button/styles/disabled = SubResource( 1 )
+Button/styles/focus = SubResource( 2 )
+Button/styles/hover = SubResource( 3 )
+Button/styles/normal = SubResource( 4 )
+Button/styles/pressed = SubResource( 5 )
+CheckBox/colors/font_color = Color( 0.359375, 0.359375, 0.359375, 1 )
+CheckBox/colors/font_color_disabled = Color( 0.734375, 0.734375, 0.734375, 0.2 )
+CheckBox/colors/font_color_hover = Color( 0.363281, 0.363281, 0.363281, 1 )
+CheckBox/colors/font_color_pressed = Color( 0.484375, 0.484375, 0.484375, 1 )
+CheckBox/constants/check_vadjust = 0
+CheckBox/constants/hseparation = 4
+CheckBox/fonts/font = null
+CheckBox/icons/checked = null
+CheckBox/icons/radio_checked = null
+CheckBox/icons/radio_unchecked = null
+CheckBox/icons/unchecked = null
+CheckBox/styles/disabled = null
+CheckBox/styles/focus = SubResource( 6 )
+CheckBox/styles/hover = SubResource( 7 )
+CheckBox/styles/normal = null
+CheckBox/styles/pressed = SubResource( 8 )
+Label/colors/font_color = Color( 0.34375, 0.34375, 0.34375, 1 )
+Label/colors/font_color_shadow = Color( 0.264905, 0.582031, 0.0682068, 0 )
+Label/constants/shadow_as_outline = 0
+Label/constants/shadow_offset_x = 1
+Label/constants/shadow_offset_y = 1
+Label/fonts/font = null
+LineEdit/colors/cursor_color = Color( 0.199219, 0.199219, 0.199219, 1 )
+LineEdit/colors/font_color = Color( 0.421875, 0.421875, 0.421875, 1 )
+LineEdit/colors/font_color_selected = Color( 1, 1, 1, 1 )
+LineEdit/colors/selection_color = Color( 0.699219, 0.699219, 0.699219, 1 )
+LineEdit/constants/minimum_spaces = 12
+LineEdit/fonts/font = null
+LineEdit/styles/Line_edit = null
+LineEdit/styles/focus = SubResource( 9 )
+LineEdit/styles/normal = SubResource( 10 )
+LineEdit/styles/read_only = null
+OptionButton/colors/font_color = Color( 0.320312, 0.320312, 0.320312, 1 )
+OptionButton/colors/font_color_disabled = Color( 0.9, 0.9, 0.9, 0.2 )
+OptionButton/colors/font_color_hover = Color( 0.317647, 0.317647, 0.317647, 1 )
+OptionButton/colors/font_color_pressed = Color( 1, 1, 1, 1 )
+OptionButton/constants/arrow_margin = 2
+OptionButton/constants/hseparation = 2
+OptionButton/fonts/font = null
+OptionButton/icons/arrow = null
+OptionButton/styles/disabled = null
+OptionButton/styles/focus = SubResource( 11 )
+OptionButton/styles/hover = SubResource( 12 )
+OptionButton/styles/normal = SubResource( 13 )
+OptionButton/styles/pressed = SubResource( 14 )
+Panel/styles/panel = SubResource( 15 )
+Panel/styles/panelf = SubResource( 16 )
+Panel/styles/panelnc = SubResource( 17 )
+PopupMenu/colors/font_color = Color( 0.242188, 0.242188, 0.242188, 1 )
+PopupMenu/colors/font_color_accel = Color( 0.7, 0.7, 0.7, 0.8 )
+PopupMenu/colors/font_color_disabled = Color( 0.4, 0.4, 0.4, 0.8 )
+PopupMenu/colors/font_color_hover = Color( 0.28125, 0.28125, 0.28125, 1 )
+PopupMenu/constants/hseparation = 2
+PopupMenu/constants/vseparation = 6
+PopupMenu/fonts/font = null
+PopupMenu/icons/checked = null
+PopupMenu/icons/submenu = null
+PopupMenu/icons/unchecked = null
+PopupMenu/styles/hover = SubResource( 18 )
+PopupMenu/styles/panel = SubResource( 19 )
+PopupMenu/styles/panel_disabled = null
+PopupMenu/styles/separator = null
+PopupPanel/styles/panel = SubResource( 20 )
+
